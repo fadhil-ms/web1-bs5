@@ -1,0 +1,14 @@
+/* slide1.css */
+
+/* Center and resize the carousel */
+.carousel-container {
+    max-width: 600px; /* Set maximum width */
+    margin: 0 auto; /* Center the carousel */
+}
+
+/* Set height of images within the carousel */
+.carousel-inner img {
+    height: 400px; /* Set desired height */
+    object-fit: cover; /* Adjust image to fill the container without stretching */
+}
+
